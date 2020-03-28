@@ -1,0 +1,6 @@
+.header {width:"100PX";color :"skyblue";}
+.header h1{align: "left";background:yellow;color:red;} 
+.header table{ width:"100PX";background:lightgreen;}
+
+a:hover{color:brown;}
+a:visited{color:orange;}
